@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ahmed Ferganey
 A passionate Autonomous Vehicle Software Engineer from Egypt.
 
-🌱 I’m currently learning Embedded Linux, and AI in automotive.
+🌱 I’m currently learning Embedded Software, and AI in automotive.
 
 📫 How to reach me: [ahmedferganey@gmail.com](mailto:ahmed.ferganey707@gmail.com)
 
