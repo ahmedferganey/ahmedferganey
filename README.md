@@ -22,6 +22,9 @@ A passionate Autonomous Vehicle Software Engineer from Egypt.
 ## Contribution Graph:
 ![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedferganey&theme=react-dark)
 
+![Ahmed's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedferganey&theme=github_dark)
+
+
 ## Popular Projects:
 - 🎓 [Graduation Project 2022](https://github.com/ahmedferganey/GraduationProject2022)  
   A comprehensive project focusing on Robotic System.
