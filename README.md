@@ -20,7 +20,6 @@ A passionate Autonomous Vehicle Software Engineer from Egypt.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## Contribution Graph:
-![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedferganey&theme=react-dark)
 ![Ahmed's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedferganey&theme=react-dark&area=true)
 ![Ahmed's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedferganey&theme=github_dark)
 
