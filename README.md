@@ -34,5 +34,5 @@ A passionate Autonomous Vehicle Software Engineer from Egypt.
 - 🛍️ [Customer Segmentation (Machine Learning)](https://github.com/ahmedferganey/Final_Learning_AI/tree/Projects/01_CustomerSegmentation_ML)  
   A machine learning project for segmenting customers based on their behavior.
 
-- 🎤 [Speech Recognition on Raspberry Pi (Containerized App)](https://github.com/ahmedferganey/Final_Learning_AI/tree/Projects/02_DeepLearning_Projects/00_Speech_Recognition_RasPi_ContainerzedApp)  
-  Deep learning project for speech recognition using a Raspberry Pi and Docker containers.
+- 🎤 [Speech Recognition Project](https://github.com/ahmedferganey/Final_Learning_AI/tree/Projects/02_DeepLearning_Projects/00_Speech_Recognition_RasPi_ContainerzedApp)  
+  Deep learning project for speech recognition.
