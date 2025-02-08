@@ -29,6 +29,6 @@ A passionate Autonomous Vehicle Software Engineer from Egypt.
 - 🎤 [Speech Recognition Project](https://github.com/ahmedferganey/Final_Learning_AI/tree/Projects/02_DeepLearning_Projects/00_Speech_Recognition_RasPi_ContainerzedApp)  
   Deep learning project for speech recognition.
 
-- 🎧 [AI Voice Assistant using Raspi4](https://github.com/ahmedferganey/AutonomousVehiclesprojects/tree/main/AI%20Voice%20Assistant%20using%20Raspi4)  
+- 🎧 [AI Voice Assistant using Raspi4](https://github.com/ahmedferganey/AutonomousVehiclesprojects/tree/main/AI_Voice_Assistant_using_Raspi4)  
   An AI-powered voice assistant developed using Raspberry Pi 4, integrating speech recognition and control for automation.
 
