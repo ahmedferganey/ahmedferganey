@@ -20,8 +20,8 @@ A passionate Autonomous Vehicle Software Engineer from Egypt.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
 ![Yocto](https://img.shields.io/badge/Yocto-002654?style=flat&logo=yocto&logoColor=white) 
 ![Buildroot](https://img.shields.io/badge/Buildroot-1E90FF?style=flat&logo=buildroot&logoColor=white) 
-![QEMU](https://img.shields.io/badge/QEMU-FA4D21?style=flat&logo=qemu&logoColor=white) 
-![AVR](https://img.shields.io/badge/AVR-EC1C24?style=flat&logo=atmel&logoColor=white)  
+![QEMU](https://img.shields.io/badge/QEMU-FA4D21?style=flat&logo=qemu&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-EC1C24?style=flat&logo=atmel&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white)
 ![RISC-V](https://img.shields.io/badge/RISC--V-0055A5?style=flat&logo=risc-v&logoColor=white)
 
