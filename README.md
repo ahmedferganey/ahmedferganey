@@ -121,20 +121,21 @@ I combine **software engineering**, **embedded development**, and **deep learnin
 🔗 https://github.com/ahmedferganey/GraduationProject
 
 ---
-
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics (Stable)
 
 <p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ahmedferganey&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=ahmedferganey&layout=compact&theme=react&hide_border=true" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedferganey&theme=dracula&column=7&no-frame=true&no-bg=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedferganey&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://img.shields.io/github/followers/ahmedferganey?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ahmedferganey?label=Stars&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedferganey&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedferganey&theme=react&hide_border=true&mode=weekly" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedferganey&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedferganey&theme=dracula" />
 </p>
 
 
