@@ -67,7 +67,7 @@ I combine **software engineering**, **embedded development**, and **deep learnin
 - Improved quality processes for automotive components (Renault + VW).
 - Applied RCA, 7QC tools, DFMEA, PFMEA.
 
-### **Quality Intern – JAC Motors (2023)**
+### **Quality Intern – JAC (2023)**
 - Identified production defects and documented improvement actions.
 
 ---
