@@ -125,12 +125,19 @@ I combine **software engineering**, **embedded development**, and **deep learnin
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedferganey&theme=react-dark&area=true" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ahmedferganey&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=ahmedferganey&layout=compact&theme=react&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedferganey&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedferganey&theme=github-dark&hide_border=true&area=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmedferganey&theme=react&hide_border=true&mode=weekly" height="200" />
+</p>
+
+
 
 ---
 
