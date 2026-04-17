@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ferganey</h1>
-<h3 align="center">Computer Vision Engineer | Embedded Software | AI & Deep Learning</h3>
+<h3 align="center">AI Platform Engineer | Backend & ML Systems | Embedded AI</h3>
 
 <p align="center">
   <a href="mailto:ahmed.ferganey707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
@@ -11,133 +11,169 @@
 ---
 
 ## 🚀 About Me
-AI & Computer Vision Engineer with strong experience in designing and deploying intelligent systems across embedded platforms, cloud environments, containerized applications, and backend systems. Skilled in **FastAPI**, **Docker**, **Kubernetes**, and modern ML/DL frameworks (TensorFlow, PyTorch).
 
-I combine **software engineering**, **embedded development**, and **deep learning** to build real-time, scalable, and automated solutions.
+AI Platform Engineer with a hybrid background bridging **industrial systems engineering + cloud-native AI infrastructure**.
+
+I specialize in building **production-grade AI systems**, including:
+
+- Scalable **RAG pipelines**
+- **LLM-powered applications**
+- **Inference APIs**
+- **Distributed backend systems**
+
+I combine:
+- **Backend Engineering (FastAPI, async systems)**
+- **MLOps & Infrastructure (Docker, Kubernetes)**
+- **AI/ML Systems (LLMs, CV, NLP)**
+- **Embedded Systems (Linux, Yocto, edge AI)**
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Engineering Focus
 
-| Category | Summary |
-|---------|---------|
-| **AI & CV** | PyTorch, TensorFlow, OpenCV, CNN, RNN, LSTM, Transformers, Transfer Learning |
-| **Software Engineering** | FastAPI, REST APIs, CI/CD, State Machines, Layered Architecture |
-| **Embedded Systems** | ARM, AVR, FreeRTOS, AUTOSAR, Yocto, Buildroot, QEMU, Linux |
-| **Cloud & DevOps** | Docker, Redis, RabbitMQ, Kubernetes, Jenkins, GitHub Actions |
-| **Programming** | Python, C, C++, SQL, Bash, Dart |
-| **Tools** | CMake, Make, Doxygen, Postman, Power BI, MATLAB |
+| Domain | Capabilities |
+|------|-------------|
+| **AI Platform Engineering** | RAG systems, LLM APIs, AI Agents, Inference APIs |
+| **Backend Systems** | FastAPI, Async APIs, Microservices, Event-driven systems |
+| **MLOps & Infra** | Docker, Kubernetes, CI/CD, Redis, Message Queues |
+| **AI/ML** | Transformers, NLP, CV, Transfer Learning |
+| **Embedded AI** | Yocto, Edge deployment, Real-time systems |
+| **System Design** | Scalable, distributed, production-grade architectures |
 
 ---
 
 ## 🛠 Skills & Tools
 
 ### **Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=mysql)
-
-### **AI / DL / CV**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
-
-### **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
-
-### **Embedded & Linux**
-![Yocto](https://img.shields.io/badge/Yocto-002654?style=flat&logo=yocto)
-![Buildroot](https://img.shields.io/badge/Buildroot-1E90FF?style=flat)
-![QEMU](https://img.shields.io/badge/QEMU-8A2BE2?style=flat&logo=qemu)
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash)
 
 ---
 
-## 🏆 Professional Experience (Short Summary)
+### **AI / LLM / ML**
+- PyTorch, TensorFlow, OpenCV  
+- Transformers, NLP, CV  
+- **LLM Engineering (RAG, Prompting, Fine-tuning QLoRA)**  
+- AI Agents & Tooling  
+- Model Deployment & Inference APIs  
+
+---
+
+### **Backend Engineering**
+- FastAPI (Async)  
+- REST APIs & API Design  
+- Microservices Architecture  
+- Event-driven Systems  
+- Authentication & Authorization  
+- SQLAlchemy ORM & DB Design  
+
+---
+
+### **MLOps & Infrastructure**
+- Docker & Containerization  
+- Kubernetes (K8s-ready systems)  
+- CI/CD (GitHub Actions, Jenkins)  
+- Redis (Caching, Pub/Sub)  
+- Message Brokers (RabbitMQ)  
+- Cloud (AWS RDS, S3, Firebase)  
+
+---
+
+### **System Design**
+- Distributed Systems  
+- Scalable AI Architecture  
+- Observability-ready systems  
+- High-performance inference pipelines  
+
+---
+
+### **Embedded Systems**
+- Yocto, Buildroot  
+- ARM Architecture  
+- FreeRTOS  
+- AUTOSAR  
+- QEMU Emulation  
+- SPI, I2C, UART, CAN  
+
+---
+
+## 🏆 Professional Experience
 
 ### **Operational Excellence Engineer – Midea Electric (2025–Present)**
-- Lead Lean manufacturing initiatives (Kaizen, DMAIC, TQM).
-- Drive cross-functional team transformation and workflow optimization.
+- Applied Lean principles to optimize systems → parallels to **system scalability & performance tuning**
+- Led cross-functional improvements → aligned with **DevOps & MLOps workflows**
 
 ### **Process Quality Engineer – Methode Electronics (2023–2024)**
-- Improved quality processes for automotive components (Renault + VW).
-- Applied RCA, 7QC tools, DFMEA, PFMEA.
-
-### **Quality Intern – JAC (2023)**
-- Identified production defects and documented improvement actions.
-
----
-
-## 📚 Education & Certifications
-- **B.Sc. Mechanical Engineering – Banha University (Ranked 5/120)**
-- **Deep Learning, Computer Vision, ML Diplomas** (Stanford, MIT, FreeCodeCamp)
-- **AUTOSAR Diploma – IMT**
-- **Embedded Linux: Yocto, Buildroot, QEMU**
-- **Lean Six Sigma Green Belt**
-- **Backend Engineering – FastAPI, Databases, Cloud**
+- Ensured reliability in safety-critical systems → applied to **robust backend & AI systems**
+- Used RCA, DMAIC → enhances **debugging & system observability mindset**
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔊 **AI Voice Assistant using Raspberry Pi 4**
-- Built a **custom Linux distribution with Yocto**
-- Integrated **Whisper AI** in Docker for speech-to-text  
-- Enabled CV capabilities with OpenCV  
-- ✔ Emulated hardware using QEMU before deployment  
-🔗 https://github.com/ahmedferganey/AutonomousVehiclesprojects/tree/main/AI_Voice_Assistant_using_Raspi4
+### 🧠 **AI Knowledge Assistant Platform (RAG System)** 🔥
+- Built **production-grade RAG system**
+- Stack: FastAPI + FAISS + LLM APIs  
+- Features:
+  - Async ingestion pipelines  
+  - Vector search optimization  
+  - Redis caching  
+  - Containerized with Docker  
+  - Kubernetes-ready architecture  
+- Focus: **scalable AI platform engineering**  
 
 ---
 
-### 🤖 **6-DOF Artificial Upper Limb – Graduation Project**
-- Kinematics, dynamics, motion control  
-- Trajectory planning & optimization  
-🔗 https://github.com/ahmedferganey/GraduationProject2022
+### 🔊 **AI Voice Assistant (Edge AI)**
+- Custom Linux using **Yocto**
+- Whisper AI deployed via Docker  
+- CV integration using OpenCV  
+- QEMU emulation before deployment  
+- Demonstrates:
+  - Edge AI
+  - Embedded ML deployment  
 
 ---
 
-### 🧠 **Transfer Learning for Image Classification**
-- Implemented with PyTorch & TensorFlow  
-- Fine-tuning, augmentation, optimization  
-🔗 https://github.com/ahmedferganey/Final_Learning_AI/tree/main/Final_Learning_AI-Projects/02_DeepLearning_Projects/01_Transfer_Learning
+### 🧠 **Transfer Learning (CV)**
+- ResNet, VGG, EfficientNet  
+- Fine-tuning + optimization  
+- Production-ready pipelines  
 
 ---
 
-### 🛒 **Customer Segmentation (ML Project)**
-- KMeans, Random Forest, PCA, DBSCAN  
-- Data preprocessing & outlier detection  
-🔗 https://github.com/ahmedferganey/Final_Learning_AI/tree/Projects/01_CustomerSegmentation_ML
+### 🛒 **Customer Segmentation (ML Pipeline)**
+- End-to-end ML system  
+- PCA, DBSCAN, Random Forest  
+- Feature engineering & analytics  
 
 ---
 
-### 📡 **Ultrasonic Distance Measurement System**
-- 4-sensor triangulation + ARM architecture  
-- Full AUTOSAR-layered software stack  
-- Custom linker script, startup code  
-🔗 https://github.com/ahmedferganey/GraduationProject
+### 📡 **Embedded System (AUTOSAR Architecture)**
+- Full layered embedded stack  
+- ARM-based system  
+- Real-time system design  
 
 ---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedferganey&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedferganey&show_icons=true&theme=react&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedferganey&layout=compact&theme=react&hide_border=true" height="170" />
 </p>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedferganey&theme=github-dark&hide_border=true&area=true" />
-</p>
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedferganey&theme=react&hide_border=true&mode=weekly" height="200" />
-</p>
-
-
+- Building **AI Platforms (RAG + LLM systems)**  
+- Designing **production-grade backend systems**  
+- Scaling **AI infrastructure on Kubernetes**  
+- Transitioning fully into **AI Platform Engineering roles**  
 
 ---
 
