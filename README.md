@@ -173,7 +173,7 @@ Advanced multi-agent LLM pipeline demonstrating production-grade agentic archite
 ---
 
 ### 2️⃣ Async Document Intelligence RAG System
-**🔗 [GitHub Repository](https://github.com/ahmedferganey/async-rag-system](https://github.com/ahmedferganey/Final_Learning_AI/tree/main/09_Gen_AI/02_rag/project/mini_rag_app)**
+**🔗 [GitHub Repository](https://github.com/ahmedferganey/Final_Learning_AI/tree/main/09_Gen_AI/02_rag/project/mini_rag_app)**
 
 Production-grade distributed AI backend for document intelligence:
 
@@ -196,7 +196,7 @@ Production-grade distributed AI backend for document intelligence:
 ---
 
 ### 3️⃣ Edge Speech-to-Text System with Whisper on Raspberry Pi
-**🔗 [GitHub Repository](https://github.com/ahmedferganey/edge-whisper-stt](https://github.com/ahmedferganey/AutonomousVehiclesprojects/tree/main/AI_Voice_Assistant_using_Raspi4)**
+**🔗 [GitHub Repository](https://github.com/ahmedferganey/AutonomousVehiclesprojects/tree/main/AI_Voice_Assistant_using_Raspi4)**
 
 Custom Embedded Linux system for edge AI inference:
 
@@ -214,7 +214,7 @@ Custom Embedded Linux system for edge AI inference:
 ---
 
 ### 4️⃣ Transfer Learning for Image Classification
-**🔗 [GitHub Repository](https://github.com/ahmedferganey/transfer-learning-cv](https://github.com/ahmedferganey/Final_Learning_AI/tree/main/Final_Learning_AI-Projects/02_DeepLearning_Projects/01_Transfer_Learning)**
+**🔗 [GitHub Repository](https://github.com/ahmedferganey/Final_Learning_AI/tree/main/Final_Learning_AI-Projects/02_DeepLearning_Projects/01_Transfer_Learning)**
 
 Production-ready transfer learning pipelines:
 
@@ -229,7 +229,7 @@ Production-ready transfer learning pipelines:
 ---
 
 ### 5️⃣ Bilingual SMS Spam Classification (Arabic/English)
-**🔗 [GitHub Repository](https://github.com/ahmedferganey/bilingual-spam-classifier](https://github.com/ahmedferganey/Final_Learning_AI/blob/main/09_Gen_AI/01_foundation/01_NLP_Revision/00_NLP_Arabic.ipynb)**
+**🔗 [GitHub Repository](https://github.com/ahmedferganey/Final_Learning_AI/blob/main/09_Gen_AI/01_foundation/01_NLP_Revision/00_NLP_Arabic.ipynb)**
 
 NLP-based bilingual spam detection system:
 
@@ -246,7 +246,7 @@ NLP-based bilingual spam detection system:
 ---
 
 ### 6️⃣ Customer Segmentation using Machine Learning
-**🔗 [GitHub Repository](https://github.com/ahmedferganey/customer-segmentation-ml](https://github.com/ahmedferganey/Final_Learning_AI/blob/main/Final_Learning_AI-Projects/01_CustomerSegmentation_ML/Customer_Segmentation.ipynb)**
+**🔗 [GitHub Repository](https://github.com/ahmedferganey/Final_Learning_AI/blob/main/Final_Learning_AI-Projects/01_CustomerSegmentation_ML/Customer_Segmentation.ipynb)**
 
 Data-driven customer segmentation for automotive dataset:
 
