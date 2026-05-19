@@ -155,7 +155,7 @@ I build **production-grade, scalable AI backends** with a focus on:
 ## 🏗️ Featured Projects
 
 ### 1️⃣ Multi-Agent LLM Orchestration System (LangGraph)
-**🔗 [GitHub Repository](https://github.com/ahmedferganey/multi-agent-llm](https://github.com/ahmedferganey/Final_Learning_AI/tree/main/09_Gen_AI/03_agents/project/SingleVsMultiAgentsSystem)**
+**🔗 [GitHub Repository](https://github.com/ahmedferganey/Final_Learning_AI/tree/main/09_Gen_AI/03_agents/project/SingleVsMultiAgentsSystem)**
 
 Advanced multi-agent LLM pipeline demonstrating production-grade agentic architecture:
 
